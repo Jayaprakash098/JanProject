@@ -12,6 +12,7 @@ System.out.println("India");
 
 public static void main(String[] args) {
 	India j=new India();
+	j.hindi();
 	j.india();
 	j.malayalam();
 	j.tamillanguage();
